@@ -1,0 +1,5 @@
+# Ignore temporary files
+LICENSE.txt
+Lib/,
+.github
+myenv/
