@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: TEXT-SUMMARIZATION
+Version: 0.0.0
+Summary: A small python nlp app
+Home-page: https://github.com/Prashant-GB/TEXT-SUMMARIZATION
+Author: Prashant-GB
+Author-email: bhatprashantpg@gmail.com
+Project-URL: Bug Tracker, https://github.com/Prashant-GB/TEXT-SUMMARIZATION/issues
+License-File: LICENSE
