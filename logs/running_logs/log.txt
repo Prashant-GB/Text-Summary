@@ -1,0 +1,4 @@
+[2023-09-21 14:54:34,810: INFO: main: Welcome to our custom logging]
+[2023-09-21 14:57:02,760: INFO: main: Welcome to our custom logging]
+[2023-10-02 19:55:40,274: INFO: main: Welcome to our custom logging]
+[2023-10-25 17:50:33,694: INFO: main: Welcome to our custom logging]
